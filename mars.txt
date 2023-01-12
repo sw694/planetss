@@ -1,3 +1,6 @@
 Information about mars. 
 Maltesers.
 the commands are git add and git commit. 
+
+mars has marsquakes apparently. 
+and mars has two moons. 
