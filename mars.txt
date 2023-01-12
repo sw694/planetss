@@ -4,3 +4,5 @@ the commands are git add and git commit.
 
 mars has marsquakes apparently. 
 and mars has two moons. 
+
+Roses are red. Are violets really blue?
